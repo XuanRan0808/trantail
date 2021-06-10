@@ -25,8 +25,8 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
  */
 public class QQ_MessageHook implements IXposedHookLoadPackage {
 
-    public static final String APP_ID = "20180105000112196";
-    public static final String SECURITY_KEY = "szOaGQPSw3aqfasbo0Gy";
+    public static final String APP_ID = "aa";
+    public static final String SECURITY_KEY = "mima";
     public static final String TAG = "XuanRan";
 
     @Override
